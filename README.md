@@ -14,4 +14,6 @@ This was a super fun project and I got to learn pretty cool stuff during the dev
 
 Enjoy the game:bangbang:
 
-##Made with 🖤 by Vivek!
+
+
+Made with 🖤 by Vivek!
